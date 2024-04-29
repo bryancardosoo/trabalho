@@ -7,7 +7,7 @@ Site para gerenciar tarefas.
 [Projeto de portfólio pessoal](#projeto-de-portf%C3%B3lio-pessoal)
 [Descrição](#descri%C3%A7%C3%A3o)
 [Introdução](#introdu%C3%A7%C3%A3o)
-[Funcionalidades](https://github.com/bryancardosoo/formcadas#funcionalidades)
+[Funcionalidades](#funcionalidades)
 [Tecnologias utilizadas](#tecnologias-utilizadas)
 [Fontes consultadas](#fontes-consultadas)
 [Autores](#autores)  
@@ -34,8 +34,8 @@ The functionalities are: manage tasks and delete them if you want
 
 
 ## Fontes consultadas
-* [ViaCEP](https://viacep.com.br/) - Implementação do banco de dados para buscar CEP
-* [Bootstrap](https://getbootstrap.com/docs/5.0/forms/layout/#gutters-) - 
+* Código usado, feito por: https://www.youtube.com/watch?v=dJ49I-QYYUk&ab_channel=MonolitoPHP
+
 
 ## Autores
 
