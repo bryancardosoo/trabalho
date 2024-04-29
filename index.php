@@ -12,10 +12,9 @@ if ( isset($_GET['task_name']) ) {
 }
 
 if (isset( $_GET['clear']) ) {
-     unset( $_SESSION['tasks']);
+    unset( $_SESSION['tasks']);
 }
 
-var_dump($_SESSION['tasks']);
 
 ?>
 
