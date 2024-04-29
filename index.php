@@ -7,7 +7,7 @@ if ( !isset($_SESSION['tasks']) ) {
 }
 
 if ( isset($_GET['task_name']) ) {
-     array_push($_SESSION['tasks'], $_GET['task_name']);
+    array_push($_SESSION['tasks'], $_GET['task_name']);
     unset($_SET['task_name']);
 }
 
